@@ -1,2 +1,2 @@
 Волошин Данила Александрович
-Change from main branch
+Change in author.md from conflict2
